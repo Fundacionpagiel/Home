@@ -1,0 +1,134 @@
+Estilos
+*
+body
+{
+ margin: top;
+ padding: 0px;
+ 
+}
+
+.logo
+{
+   text-align: center;
+	margin: top;
+}
+
+#valores
+{
+	text-align: center;
+}
+
+#val_nom
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+
+
+
+.imagen {
+   
+    border-radius:50px;
+	background-color: #fafafa;
+	margin: auto;
+	padding: 1rem;
+
+	/* IMPORTANTE */
+	text-align: center;
+	display: block;
+	justify-content: center;
+}
+
+
+#parrafo
+{
+	text-align: justify;
+	display: block;
+	margin: auto;
+	font-size: 15pt;
+
+}
+.accordion-body
+{
+	text-align: justify;
+}
+
+#twi
+{
+	background-color:#00acee;
+	
+}
+
+#Fac
+{
+	background-color:#3b5998;
+}
+
+#Ins
+{
+	background-color: #C13584;
+}
+
+#You
+{
+	background-color: crimson;
+}
+
+#msj
+{
+	background-color:royalblue;
+}
+
+
+
+
+
+
+
+.whatsapp {
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	font-size:30px;
+	z-index:100;
+  }
+  
+  .whatsapp-icon {
+	margin-top:13px;
+  }
+
+.display-1
+{
+	text-align: center;
+} 
+
+.whatsapp1 {
+	
+	width:30px;
+	height:30px;
+	color:#FFF;
+}
+  
+  .whatsapp1-icon {
+	margin-top:13px;
+	
+}
+
+
+
+ 
+
+  
+
+
+
+
+
+  
